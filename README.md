@@ -1,6 +1,6 @@
 # Plastecure - Smart Plastic Waste Management System
 
-![Plastecure Banner](https://github.com/theaniketraj/plastecure/blob/main/assets/logo_clean.jpg)
+![Plastecure Banner](https://github.com/Falguni35/plastecure/blob/main/assets/logo_clean.jpg)
 
 ## 🌍 Introduction
 
@@ -45,7 +45,7 @@ Plastecure is an **IoT-based smart plastic waste management system** that enable
 ### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/theaniketraj/plastecure.git
+git clone https://github.com/Falguni35/plastecure.git
 cd plastecure
 ```
 
