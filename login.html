@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Plastecure - Login</title>
+    <link rel="icon" type="image/png" href="assets/favicon.png" />
+    <link rel="stylesheet" href="login-style.css" />
+</head>
+
+<body>
+
+    <div class="login-container">
+        <a href="index.html">
+            <img src="assets/logo_clean.jpg" alt="Plastecure Logo" class="logo" />
+        </a>
+
+        <h1 class="login-text">Login</h1>
+
+        <div class="input-group">
+            <label for="username">Name</label>
+            <input type="text" id="username" placeholder="Enter your name" required />
+        </div>
+
+        <div class="input-group">
+            <label for="userId">Unique ID</label>
+            <input type="text" id="userId" placeholder="Enter your unique ID" required />
+        </div>
+
+        <div class="next-page-icon">
+            <img src="assets/Next-Icon.svg" alt="Next" id="next-btn" style="cursor:pointer;" />
+        </div>
+    </div>
+
+    <!-- Firebase Compat SDKs -->
+    <script src="https://www.gstatic.com/firebasejs/11.0.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/11.0.1/firebase-database-compat.js"></script>
+
+    <!-- Your Login Logic -->
+    <script src="login.js"></script>
+</body>
+
+</html>
