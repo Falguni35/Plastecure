@@ -3,16 +3,16 @@
 #include <Firebase_ESP_Client.h>
 
 // Wi-Fi credentials
-#define WIFI_SSID "Redmi Note 7 Pro"
-#define WIFI_PASSWORD "42071000"
+#define WIFI_SSID "Wifi SSID"
+#define WIFI_PASSWORD "Wifi password"
 
 // Firebase project credentials
-#define API_KEY "AIzaSyCy8IqIztOOIOEDZyjrBQLOkz8DUMsj0ls"
-#define DATABASE_URL "https://plastecure-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define API_KEY "Your API key "
+#define DATABASE_URL "Database Link"
 
 // Firebase email/password
-#define USER_EMAIL "mathurfalguni96@gmail.com"
-#define USER_PASSWORD "Falguni@4207"
+#define USER_EMAIL "Authenticated Email in Firebase"
+#define USER_PASSWORD "Authenticated Password in Firebase"
 
 // Firebase objects
 FirebaseData fbdo;
