@@ -5,8 +5,8 @@
 #include <ArduinoJson.h>
 
 // Wi‑Fi credentials
-const char* ssid      = "Redmi Note 7 Pro";
-const char* password  = "42071000";
+const char* ssid      = "WIFI SSID";
+const char* password  = "WIFI PAssword";
 
 // Server URL
 const char* serverBase = "https://1e8a278effcd.ngrok-free.app";
