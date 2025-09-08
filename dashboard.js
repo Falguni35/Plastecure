@@ -1,6 +1,6 @@
 // 1️⃣ Firebase config (same as login.js)
 const firebaseConfig = {
-    apiKey: "AIzaSyCy8IqIztOOIOEDZyjrBQLOkz8DUMsj0ls",
+    apiKey: "API ID",
     authDomain: "plastecure.firebaseapp.com",
     databaseURL: "https://plastecure-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "plastecure",
